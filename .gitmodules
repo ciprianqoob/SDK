@@ -1,0 +1,3 @@
+[submodule "PluginB"]
+	path = PluginB
+	url = git@github.com:ciprianqoob/PluginB.git
